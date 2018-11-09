@@ -9,5 +9,6 @@ namespace GitExampleWeb
     {
         public sbyte S { get; set; }
         public string Name { get; set; }
+        public int DOB { get; set; }
     }
 }
