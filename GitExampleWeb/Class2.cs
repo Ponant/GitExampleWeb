@@ -8,5 +8,6 @@ namespace GitExampleWeb
     public class Class2
     {
         public sbyte S { get; set; }
+        public string Name { get; set; }
     }
 }
